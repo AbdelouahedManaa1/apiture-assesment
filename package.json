@@ -1,0 +1,17 @@
+{
+  "name": "assesment",
+  "version": "1.0.0",
+  "description": "apiture technical assesment",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --reporter=html"
+  },
+  "author": "abdelouahed manaa",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.39.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.39.0"
+  }
+}
